@@ -38,6 +38,9 @@ Building
 
     cargo build
 
+The actual executable will be created in `target/hello-world`; you can run
+this file directly.
+
 Run and test
 ------------
 
