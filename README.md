@@ -10,8 +10,9 @@ To use:
 Keeping up-to-date
 ------------------
 
-You will need to be up-to-date with Rust and Cargo. These tools change
-daily, and 
+You will need to be up-to-date with Rust and [Cargo](http://crates.io). 
+These tools change daily, and normally a very recent version of both is 
+required. 
 
 Building
 --------
