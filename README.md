@@ -23,6 +23,9 @@ Usage
 Keeping up-to-date
 ------------------
 
+A lot of compilation errors are a direct result of not being up-to-date
+with the latest versions of various tools.
+
 You will need to be up-to-date with Rust and [Cargo](http://crates.io). 
 These tools change daily, and normally a very recent version of both is 
 required. Cargo is now bundled with Rust, and both may be updated with
