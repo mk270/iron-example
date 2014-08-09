@@ -1,0 +1,15 @@
+[package]
+
+name = "hello-world"
+version = "0.1.0"
+authors = [ "wycats@example.com" ]
+
+#[dependencies.core]
+
+#path = "../../../Src/iron-core"
+#git = "https://github.com/iron/core.git"
+
+[dependencies.iron]
+
+#path = "../../../Src/iron-core"
+git = "https://github.com/iron/iron.git"
