@@ -17,4 +17,15 @@ Building
 --------
 
     cargo build
+
+Run and test
+------------
+
     cargo run
+
+This command will start an HTTP server on http://localhost:3000/ and not
+terminate. Separately, you should do something like
+
+    curl http://localhost:3000/
+
+and this should display the string "Hello, world!"
