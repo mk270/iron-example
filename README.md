@@ -4,9 +4,10 @@ Example iron app
 Overview
 --------
 
-Iron is a fast-developing HTTP framework for Rust. This repository contains
-a trivial self-contained example of its use in an executable, suitable for
-cloning for your own experiments.
+[Iron](http://ironframework.io/) is a fast-developing HTTP framework
+for Rust.  This repository contains a trivial self-contained example
+of its use in an executable, suitable for cloning for your own
+experiments.
 
 The source code is in `src/main.rs`; its dependency on Iron is declared
 through a stanza in the `Cargo.toml` file.
