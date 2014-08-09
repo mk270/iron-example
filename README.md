@@ -32,7 +32,7 @@ required. Cargo is now bundled with Rust, and both may be updated with
 the `rustup.sh' command. If you are not too security-conscious, you may
 achieve this on a UNIX-like system with:
 
-    curl www.rust-lang.org/rustup.sh | sudo bash
+    curl www.rust-lang.org/rustup.sh | sudo sh
 
 This will download and install the latest Rust and Cargo binaries into
 /usr/local/bin.
